@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main()
 {
-	char* str = "Hello World";
+	char* str = "Hello World\n";
 	printf("%s\n",str);
 
 	return 0;
+
 }
